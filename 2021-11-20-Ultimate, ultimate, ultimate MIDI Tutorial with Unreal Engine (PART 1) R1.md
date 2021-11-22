@@ -54,7 +54,4 @@ SUPPORT THE CHANNEL BUYING NFTs: https://nft.ramiroslab.com/
 
 SUPPORT THE CHANNEL WITH DONATIONS: 0x2BEf61929d96D1847c254994e048661Dd4Ca1167
 
-THIS IS BOTH, AN UTILITY EXPERIMENT BUT ALSO A COLLECTIBLE EXPERIMENT.
-
-
 #unrealengine #motioncontrol #cameratracking #vive #oculus #metaverse #realsense #lidar #dji #NFT
