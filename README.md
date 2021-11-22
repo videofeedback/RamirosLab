@@ -4,9 +4,6 @@
 
 [![Youtube Teaser](https://github.com/videofeedback/RamirosLab/blob/main/images/yt_thumbm.jpg)](https://www.youtube.com/watch?v=ZKbpYW4h4SU?sub_confirmation=1)
 
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZKbpYW4h4SU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-
 
 ####Unreal Engine Motion Control Lab Projects
 Welcome to "Ramiro's Lab" !!!
