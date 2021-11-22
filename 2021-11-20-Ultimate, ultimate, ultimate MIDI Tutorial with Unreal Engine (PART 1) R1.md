@@ -50,11 +50,7 @@ TWITTER: https://twitter.ramiroslab.com
 
 CLUBHOUSE: @RAMIROMDO
 
-<<<<<<< HEAD
 SUPPORT THE CHANNEL BUYING NFTs: https://nft.ramiroslab.com/
-=======
-SUPPORT THE CHANNEL BUYING NFTs: https://nft.ramiroslab.com/ 
->>>>>>> c3b50e05c71170dff781489e058dde77c1c82cb6
 
 SUPPORT THE CHANNEL WITH DONATIONS: 0x2BEf61929d96D1847c254994e048661Dd4Ca1167
 
