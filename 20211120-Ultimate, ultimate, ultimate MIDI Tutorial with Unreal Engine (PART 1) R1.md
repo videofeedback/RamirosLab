@@ -5,6 +5,7 @@
 
 [![Youtube Teaser](https://raw.githubusercontent.com/videofeedback/RamirosLab/main/images/ultimate%20midi%20tutorial%20with%20unreal%20engine%20-%205.png)](https://www.youtube.com/watch?v=ZKbpYW4h4SU?sub_confirmation=1)
 
+[![](https://github.com/videofeedback/RamirosLab/blob/main/images/MIDI-PROTOCOL-1.jpg)](https://github.com/videofeedback/RamirosLab/blob/main/images/MIDI-PROTOCOL-1.jpg)
 
 On this "Ultimate, ultimate, ultimate MIDI Tutorial with Unreal Engine" (PART 1) we dive deep into the MIDI protocol library with Unreal Engine. 
 UPDATE REV 1: Yes, you are not crazy...  This is a revision from the original video. The MIDI library is 100% working on every UE version. I have to clarify this on the Part 2. It's all good and everything works as it should. 
