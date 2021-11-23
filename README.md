@@ -15,7 +15,7 @@ Unreal Engine is the main tool used for Virtual Production right now. All the pr
 Creative Commons Attribution 4.0 (CC BY 4.0). Everyone is invited to collaborate. 
 
 This is a chart of the communication protocols that we are going to learn:
-[![](https://github.com/videofeedback/RamirosLab/blob/main/images/CommunicationProtocols.jpg)](https://github.com/videofeedback/RamirosLab/blob/main/images/CommunicationProtocols.jpg)
+[![](https://github.com/videofeedback/RamirosLab/blob/main/images/CommunicationProtocols-1.jpg)](https://github.com/videofeedback/RamirosLab/blob/main/images/CommunicationProtocols-1.jpg)
 
 All the projects are going to be hosted at:
 http://www.github.com/videofeedback/
