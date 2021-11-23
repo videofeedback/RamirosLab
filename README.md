@@ -14,6 +14,7 @@ I specialize in hardware design and manufacturing for motion control and interac
 Unreal Engine is the main tool used for Virtual Production right now. All the programming done for Unreal Engine on this project is Open Source. From codding, electrical engineer, PCB design ... everything is meant to be Open Source. 
 Creative Commons Attribution 4.0 (CC BY 4.0). Everyone is invited to collaborate. 
 
+This is a chart of the communication protocols that we are going to learn:
 [![](https://github.com/videofeedback/RamirosLab/blob/main/images/CommunicationProtocols.jpg)](https://github.com/videofeedback/RamirosLab/blob/main/images/CommunicationProtocols.jpg)
 
 All the projects are going to be hosted at:
