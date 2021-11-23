@@ -12,7 +12,7 @@ UPDATE REV 1: Yes, you are not crazy...  This is a revision from the original vi
 Part of the a series of tutorials about motion control with Unreal Engine, this is a key piece to learn the tools used on this jigsaw.
 This is the "Ultimate, ultimate, ultimate MIDI Tutorial with Unreal Engine" (PART 1)
 
-[![](https://raw.githubusercontent.com/videofeedback/RamirosLab/main/images/2021-11-22_20-58-22.jpg)](https://raw.githubusercontent.com/videofeedback/RamirosLab/main/images/MIDI_1-1_Protocol.png)
+[![](https://raw.githubusercontent.com/videofeedback/RamirosLab/main/images/2021-11-22_20-58-22.jpg)](https://github.com/videofeedback/RamirosLab/blob/main/images/MIDI_1-1_Protocol.png)
 
 
 On the first part we are learning the MIDI protocol and part of the MIDI Library on Unreal Engine.
