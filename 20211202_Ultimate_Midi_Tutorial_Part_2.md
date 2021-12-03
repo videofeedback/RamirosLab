@@ -1,6 +1,6 @@
 # "Ultimate MIDI Tutorial with Unreal Engine (PART 2)"
 
-[![Youtube Teaser](https://github.com/videofeedback/RamirosLab/blob/main/images/yt_thumbm.jpg)](https://youtu.be/PNQPOruPuM8?sub_confirmation=1)
+[![Youtube Teaser](https://github.com/videofeedback/RamirosLab/blob/main/images/ULTIMATE%20MIDI%20TUTORIAL%20WITH%20UNREAL%20ENGINE%20PART%202%2001.png)](https://youtu.be/PNQPOruPuM8?sub_confirmation=1)
 
 
 This is a Step-by-step tutorial of how to use one of the most underated MIDI functions (and also unknown), that allows us to have absolute precission control of our MIDI values.
