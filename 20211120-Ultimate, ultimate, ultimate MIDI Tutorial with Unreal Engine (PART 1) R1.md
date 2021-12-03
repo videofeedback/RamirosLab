@@ -5,6 +5,10 @@
 
 [![Youtube Teaser](https://github.com/videofeedback/RamirosLab/blob/main/images/ULTIMATE%20MIDI%20TUTORIAL%20WITH%20UNREAL%20ENGINE%20PART%201%2001.png)](https://www.youtube.com/watch?v=s_QxpvBqC_4?sub_confirmation=1)
 
+
+## [ Ultimate, ultimate, ultimate MIDI Tutorial with Unreal Engine (PART 1) R1](https://www.youtube.com/watch?v=s_QxpvBqC_4?sub_confirmation=1)
+
+
 [![](https://github.com/videofeedback/RamirosLab/blob/main/images/MIDI-PROTOCOL-1.jpg)](https://github.com/videofeedback/RamirosLab/blob/main/images/MIDI-PROTOCOL-1.jpg)
 
 On this "Ultimate, ultimate, ultimate MIDI Tutorial with Unreal Engine" (PART 1) we dive deep into the MIDI protocol library with Unreal Engine. 
