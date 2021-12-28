@@ -161,11 +161,6 @@ The key wrong piece of data is the Startbyte is [00001111 (0x0F) Decimal = 15] i
 
 ----------------------------------------------------------------------------
 
-
-
-
-----------------------------------------------------------------------------
-
 # CAN Bus Protocol
 
 ![](https://github.com/videofeedback/RamirosLab/blob/main/images/can-bus_bosch.png)
@@ -175,6 +170,44 @@ The key wrong piece of data is the Startbyte is [00001111 (0x0F) Decimal = 15] i
 ##### This doesn't means that is the easiest protocol to read, since data is device-oriented, and depends on each manufacturer to release the method to decode their stream of data. On top of that, the protocol can also be encrypted, adding a layer of security but a potential layer of complication for reverse engineering a CAN-Bus device. Fortunatelley, not all the information is encrypted in the DJI protocol that we are going to analyze. 
 
 
+----------------------------------------------------------------------------
+
+# DJI R SDK Protocol and User Interface
+
+![](https://github.com/videofeedback/RamirosLab/blob/main/images/DJI_R_SDK_cover.png)
+
+DJI R SDK Protocol and User Interface PDF: (https://github.com/videofeedback/RamirosLab/blob/main/pdfs/DJI_R_SDK_Protocol_and_User_Interface_EN.pdf)
+
+##### Interpolating the information of the DJI R allowed me to decode some of the information that the Ronin-S is sending to the CAN-Bus. It is already decoded the fact that both systems are not 100% compatible, but the information seems to follow the same standard. I contacted DJI and they confirmed that there is not SDK for the Ronin-S and no more information was provided. Since the Ronin-S is already an old product, I have doubts if they will ever release a SDK for the Ronin-S
+
+##### The full SDK "DJI R SDK Protocl and User Interface" was proven to be very helpful and without it it would be almost impossible (or take longer time) to decode how DJI communicates via CAN-Bus. I hope DJI could release more SDKs for future products. They are good with developers and developers are able to make custom solutions for drones and camera gimbals. Eventually (at one point) I will move to Ronin-R, but my challenge to decode the Ronin-S is a priority. 
+
+
+----------------------------------------------------------------------------
+
+# DJI R SDK - Device Connection Diagram
+
+![](https://github.com/videofeedback/RamirosLab/blob/main/images/DJI_R_SDK_Focus_CAN.png)
+
+##### The description reads "Bellow shows how DJI RS 2 connects to a PC via the CAN converter". I was unable to trace back the "CAN Converter", but my wild guess is that this could be any CAN to USB device in the market and not a DJI product. 
+
+
+----------------------------------------------------------------------------
+
+# DJI R SDK - Ronin Series Accessories (RSA)/NATO Ports
+
+![](https://github.com/videofeedback/RamirosLab/blob/main/images/DJI_R_SDK_Connectors.png)
+
+##### This information is also true for Ronin-S. 
+
+
+----------------------------------------------------------------------------
+
+# DJI R SDK - Command Sample for Ronin RS2
+
+![](https://github.com/videofeedback/RamirosLab/blob/main/images/DJI_R_SDK_Command_Sample.png)
+
+##### On the other side, these command lines are not compatible with the Ronin-S system, but very helpful to decode the DJI protocol.
 
 
 
