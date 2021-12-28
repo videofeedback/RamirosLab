@@ -59,13 +59,110 @@ They can be controlled directly or inderectly through a S-Bus protocol and/or CA
 ## S-Bus Protocol
 
 
-
 ![](https://github.com/videofeedback/RamirosLab/blob/main/images/s-bus_futaba_protocol.png)
 
 ##### The S-Bus Protocol as defined by FUTABA on their website.
 
 ----------------------------------------------------------------------------
 
+## DJI Ronin-S S-Bus Direct control
+
+
+![](https://github.com/videofeedback/RamirosLab/blob/main/images/sbus_direct_connection.png)
+
+##### This is the setup for direct control of the DJI Ronin-S S-Bus.
+
+----------------------------------------------------------------------------
+
+## FlySky FS-IA6B
+
+
+![](https://github.com/videofeedback/RamirosLab/blob/main/images/flysky_amazon.png)
+
+##### The FlySky FS-IA6B is used for reverse engineer the S-Bus Protocol. The followed link is not affiliated.
+(https://www.amazon.com/Flysky-Receiver-Antenna-Compatible-Transmitter/dp/B07GBQ94GZ/)
+
+----------------------------------------------------------------------------
+
+
+## DJI Forum (S-Bus)
+
+![](https://github.com/videofeedback/RamirosLab/blob/main/images/s-bus_dji_forum.png)
+
+##### This DJI Forum's thread was very helpful to understand how DJI Ronin deals with the S-Bus protocol.
+Link: (https://forum.dji.com/thread-167232-1-1.html)
+
+----------------------------------------------------------------------------
+
+## S-Bus inverted signal
+
+![](https://github.com/videofeedback/RamirosLab/blob/main/images/s-bus_inverted.png)
+
+##### The S-Bus signal is inverted in relation with the industry standard UART communication. In order to read the signal with the standard UART library, the signal has to be inverted. A simple NPN transistor can be used to electrically reverse the signal. It would be nice to have a S-Bus library that doesn't needs to reverse the signal. In order to do this, the whole library has to be changed. STM32 libraries are easier to modify, but an Arduino library has to be re-written from scratch. 
+This is a "nice to have" in the to do list.
+
+----------------------------------------------------------------------------
+
+
+## S-Bus Protocol Analyzer Setup
+
+![](https://github.com/videofeedback/RamirosLab/blob/main/images/s-bus_protocol_analyzer.png)
+
+##### In order to communicate S-Bus with the DJI Ronin-S, you have to connect via the focus control wheel's S-Bus/CAN-Bus connector and move the selection to "S-Bus" position.
+
+ Two protocol analyzers are used for this documentation.  One os the Selaea Logic 8, and the second one is the Digilent Analog Discovery with the Oscilloscope probes extension. 
+
+----------------------------------------------------------------------------
+
+## S-Bus Demo Setup with Saleae Logic 8
+
+![](https://github.com/videofeedback/RamirosLab/blob/main/images/s-bus_setup_saleae.png)
+
+##### In order to communicate S-Bus with the DJI Ronin-S, you have to connect via the focus control wheel's S-Bus/CAN-Bus connector and move the selection to "S-Bus" position.
+
+ Two protocol analyzers are used for this documentation.  One os the Selaea Logic 8, and the second one is the Digilent Analog Discovery with the Oscilloscope probes extension. 
+
+
+
+----------------------------------------------------------------------------
+
+## S-Bus #1 Google result
+
+![](https://github.com/videofeedback/RamirosLab/blob/main/images/s-bus_arm_result.png)
+
+##### One of the biggest problems with the lack of documentation of the S-Bus protocol is that everyone depends heavely in "Dudes on the Internet"... and thte #1 Google result of "Futaba S-Bus Protocol" search is this "Dude on the internet", where the information is wrong. This is going to cause not only a lot of confusion for developers, but a lot of wasting time once they figure out that the information is wrong (if they didn't gave up at that point).
+
+![](https://github.com/videofeedback/RamirosLab/blob/main/images/s-bus_wrong.png)
+
+The key wrong piece of data is the Startbyte is [00001111 (0x0F) Decimal = 15] instead of 11110000 (0xF0). This mistake hasn't been corrected on the original post and eded up being the #1 result in google to the query "Futaba S-Bus protocol". This is just a cautionary tale of just relying on Google search. 
+
+
+
+
+----------------------------------------------------------------------------
+
+## S-Bus String
+
+![](https://github.com/videofeedback/RamirosLab/blob/main/images/s-bus_protocol_long.png)
+
+##### This is the complete string analyzed in the tutorial. 
+  - 25 Bytes Total
+  - Byte 1 = Sart Byte
+  - Bytes 2-23 Non-Individual Data Bytes
+    - Bytes 2-23 (22 Bytes) are divided by 16 = 11 Bits per Data representing 16 Channels.
+  - Byte 24 = Individual Data Byte
+  - Byte 25 = End Byte always (0x00)
+   
+
+![](https://github.com/videofeedback/RamirosLab/blob/main/images/s-bus_protocol_First.png)
+##### On this image the first byte is decoded as 0x0F (Decimal 15) and the rest of the data is decoded taking 8 bits from the first Byte plus 3 bits from the second byte and so on. A total of 176 bits will be devided by 11 bits to have 16 Data channels. Note that is impossible to read the actual values without reconstructing the bit structure. 
+
+(Even Parity bit + 2 Stop bits + Start bits in purple) are excluded/ignored for the final reading of information.
+
+----------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------
 
 Links:
 
