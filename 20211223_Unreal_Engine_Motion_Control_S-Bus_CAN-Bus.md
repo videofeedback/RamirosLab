@@ -162,6 +162,23 @@ The key wrong piece of data is the Startbyte is [00001111 (0x0F) Decimal = 15] i
 ----------------------------------------------------------------------------
 
 
+
+
+----------------------------------------------------------------------------
+
+# CAN Bus Protocol
+
+![](https://github.com/videofeedback/RamirosLab/blob/main/images/can-bus_bosch.png)
+
+##### The CAN Bus protocol was introduced by the German company BOSCH in 1986. Is one of the most trusted protocols in the industry and is being used in every modern car, trucks and heavy duty equipment, the gaming industry, building automatation, manufacturing industry, robotics and space rockets. CAN Bus is one of the most documented protocols in the industry and protocol-wise, is very easy to analyze the electrical properties and data stream. 
+
+##### This doesn't means that is the easiest protocol to read, since data is device-oriented, and depends on each manufacturer to release the method to decode their stream of data. On top of that, the protocol can also be encrypted, adding a layer of security but a potential layer of complication for reverse engineering a CAN-Bus device. Fortunatelley, not all the information is encrypted in the DJI protocol that we are going to analyze. 
+
+
+
+
+
+
 ----------------------------------------------------------------------------
 
 Links:
@@ -169,9 +186,6 @@ Links:
 JOIN THE DISCORD SERVER!!!: https://discord.ramiroslab.com
 
 YOUTUBE: https://youtube.ramiroslab.com
-
-TWITTER: https://twitter.ramiroslab.com![yt_thumbm](https://user-images.githubusercontent.com/1794641/147593656-78f55400-a526-4a9b-91a2-ac559f505b96.jpg)
-
 
 CLUBHOUSE: @RAMIROMDO
 
