@@ -214,6 +214,26 @@ DJI R SDK Protocol and User Interface PDF: (https://github.com/videofeedback/Ram
 
 ----------------------------------------------------------------------------
 
+# CAN BUS EXTRA DOCUMENTATION:
+
+DJI R SDK (PDF):
+(https://github.com/videofeedback/RamirosLab/blob/main/pdfs/DJI_R_SDK_Protocol_and_User_Interface_EN.pdf)
+
+BOSCH CAN Specification v2.0 (PDF):
+(https://github.com/videofeedback/RamirosLab/blob/main/pdfs/can2spec.pdf)
+
+Introduction to Controller Area Network (CAN) Microchip (PDF):
+(https://github.com/videofeedback/RamirosLab/blob/main/pdfs/microchip_en558265.pdf)
+
+Intorduction to Controller Area Network (CAN) Texas Instruments (PDF):
+(https://github.com/videofeedback/RamirosLab/blob/main/pdfs/TI_sloa101b.pdf)
+
+MCP2515 Microchip (PDF):
+(https://github.com/videofeedback/RamirosLab/blob/main/pdfs/MCP2515-Family-Data-Sheet-DS20001801K.pdf)
+
+----------------------------------------------------------------------------
+
+
 Links:
 
 JOIN THE DISCORD SERVER!!!: https://discord.ramiroslab.com
