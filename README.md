@@ -77,16 +77,6 @@ https://www.youtube.com/watch?v=UsrVjOOhUB4
 
 
 
-
-
--------------------------------------------------------------------------------------------------------
-
-
-
-NOTE:
-THESE NFTs ARE GOING TO BE YOUR TICKET FOR SPECIAL CONTENT OF THIS CHANNEL.
-EVERY NEW SUBSCRIBER CAN RECEIVE 1(ONE) FREE NFT.
-
 Links:
 
 JOIN THE DISCORD SERVER!!!: https://discord.ramiroslab.com
