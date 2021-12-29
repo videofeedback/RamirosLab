@@ -22,31 +22,12 @@ This is the "Ultimate, ultimate, ultimate MIDI Tutorial with Unreal Engine" (PAR
 
 On the first part we are learning the MIDI protocol and part of the MIDI Library on Unreal Engine.
 
+
+----------------------------------------------------------------------------------------------------
 All the projects are going to be hosted at:
 http://www.github.com/videofeedback/
 
-SUBSCRIBE AND CLAIM YOUR FREE NFT!!!
-- Step #1, Subscribe to this Channel
-- Step #2, Claim your FREE NFT sending a private message with your Wallet ID to this YT Channel.
-Or go to https://nft.ramiroslab.com/  and get up to 20 NFTs at $5 each to support the channel.
-PS: If you are new to Crypto, waif for a tutorial, but send the private message to reserve your NFT.
-
-NOTE:
-THESE NFTs ARE GOING TO BE YOUR TICKET FOR SPECIAL CONTENT OF THIS CHANNEL.
-EVERY NEW SUBSCRIBER CAN RECEIVE 1(ONE) FREE NFT.
-
-All the projects are going to be hosted at:
-http://www.github.com/videofeedback/
-
-SUBSCRIBE AND CLAIM YOUR FREE NFT!!!
-- Step #1, Subscribe to this Channel
-- Step #2, Claim your FREE NFT sending a private message with your Wallet ID to this YT Channel.
-Or go to https://nft.ramiroslab.com/  and get up to 20 NFTs at $5 each to support the channel.
-PS: If you are new to Crypto, waif for a tutorial, but send the private message to reserve your NFT.
-
-NOTE:
-THESE NFTs ARE GOING TO BE YOUR TICKET FOR SPECIAL CONTENT OF THIS CHANNEL.
-EVERY NEW SUBSCRIBER CAN RECEIVE 1(ONE) FREE NFT.
+----------------------------------------------------------------------------------------------------
 
 Links:
 
@@ -62,5 +43,5 @@ SUPPORT THE CHANNEL BUYING NFTs: https://nft.ramiroslab.com/
 
 SUPPORT THE CHANNEL WITH DONATIONS: 0x2BEf61929d96D1847c254994e048661Dd4Ca1167
 
-#unrealengine #motioncontrol #cameratracking #vive #oculus #metaverse #realsense #lidar #dji #NFT
+#unrealengine #motioncontrol #cameratracking #vive #oculus #metaverse #realsense #lidar #dji 
 
