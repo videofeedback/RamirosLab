@@ -192,21 +192,11 @@ Github: https://github.ramiroslab.com
 
 
   
-
-
-
+----------------------------------------------------------------------------------------------------
 All the projects are going to be hosted at:
 http://www.github.com/videofeedback/
 
-SUBSCRIBE AND CLAIM YOUR FREE NFT!!!
-- Step #1, Subscribe to this Channel
-- Step #2, Claim your FREE NFT sending a private message with your Wallet ID to this YT Channel.
-Or go to https://nft.ramiroslab.com/  and get up to 20 NFTs at $5 each to support the channel.
-PS: If you are new to Crypto, waif for a tutorial, but send the private message to reserve your NFT.
-
-NOTE:
-THESE NFTs ARE GOING TO BE YOUR TICKET FOR SPECIAL CONTENT OF THIS CHANNEL.
-EVERY NEW SUBSCRIBER CAN RECEIVE 1(ONE) FREE NFT.
+----------------------------------------------------------------------------------------------------
 
 Links:
 
