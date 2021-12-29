@@ -4,7 +4,7 @@
 ### Nov 12, 2021
 ## Welcome to "Ramiro's Lab" !!!
 
-[![Youtube Teaser](https://github.com/videofeedback/RamirosLab/blob/main/images/yt_thumbm.jpg)](https://www.youtube.com/watch?v=ZKbpYW4h4SU?sub_confirmation=1)
+[![Youtube Teaser](https://github.com/videofeedback/RamirosLab/blob/main/images/youtube_motion_control_teaser.png)](https://www.youtube.com/watch?v=ZKbpYW4h4SU?sub_confirmation=1)
 
 https://www.youtube.com/watch?v=ZKbpYW4h4SU
 
