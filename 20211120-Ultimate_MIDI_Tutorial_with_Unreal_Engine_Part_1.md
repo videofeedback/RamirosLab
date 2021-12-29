@@ -1,6 +1,5 @@
 # Ultimate, ultimate, ultimate MIDI Tutorial with Unreal Engine (PART 1) R1
 
-## This is a series of tutorials exploring a full the MIDI protocol in Unreal Engine
 ## Part 1 (MIDI Protocol / System Messages / Unreal Engine Plugin Part 1)
 
 [![Youtube Teaser](https://github.com/videofeedback/RamirosLab/blob/main/images/ULTIMATE%20MIDI%20TUTORIAL%20WITH%20UNREAL%20ENGINE%20PART%201%2001.png)](https://www.youtube.com/watch?v=s_QxpvBqC_4?sub_confirmation=1)
