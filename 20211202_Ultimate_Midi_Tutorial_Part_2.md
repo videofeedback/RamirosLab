@@ -137,3 +137,24 @@ Ramiro Montes De Oca (VideoFeedback) https://youtube.com/ramiroslab/
 
 
 
+----------------------------------------------------------------------------------------------------
+All the projects are going to be hosted at:
+http://www.github.com/videofeedback/
+
+----------------------------------------------------------------------------------------------------
+
+Links:
+
+JOIN THE DISCORD SERVER!!!: https://discord.ramiroslab.com
+
+YOUTUBE: https://youtube.ramiroslab.com
+
+TWITTER: https://twitter.ramiroslab.com
+
+CLUBHOUSE: @RAMIROMDO
+
+SUPPORT THE CHANNEL BUYING NFTs: https://nft.ramiroslab.com/
+
+SUPPORT THE CHANNEL WITH DONATIONS: 0x2BEf61929d96D1847c254994e048661Dd4Ca1167
+
+#unrealengine #motioncontrol #cameratracking #vive #oculus #metaverse #realsense #lidar #dji 
