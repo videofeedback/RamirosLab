@@ -1,3 +1,5 @@
+[![Discord Follow](https://dcbadge.vercel.app/api/server/feYhyYznDf?style=flat)](https://discord.gg/feYhyYznDf)
+
 # Ramiro's Lab (YouTube Channel)
 
 -------------------------------------------------------------------------------------------------------
